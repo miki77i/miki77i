@@ -1,6 +1,6 @@
 ![Header](https://github.com/miki77i/miki77i/blob/main/assets/developer-programmer.gif)
 
-Обо мне
+### Всем привет, меня зовут miki, я программист, студент и просто человек.
 
 Последние новости обо мне
 
